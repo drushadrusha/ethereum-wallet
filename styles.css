@@ -1,0 +1,9 @@
+#private {
+    color: transparent;
+    text-shadow: 0 0 10px #000;
+}
+
+#private:hover{
+    color: #212529;
+    text-shadow: 0 0 0;
+}
